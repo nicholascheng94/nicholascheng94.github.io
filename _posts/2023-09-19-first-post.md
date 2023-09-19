@@ -9,3 +9,6 @@ optimization in certain cases due to crossing of energy eigenvalues. Now I want 
 TDDFT to carry out the geometry optimizations, but I first need to understand 
 whether it makes sense. I need to benchmark DeltaSCF and TDDFT for some system that
 actually works to understand whether this is a workable solution. 
+
+I am trying out some tests on hexagonal boron nitride (hBN) to see how much is necessary
+to squash the negative frequencies.
