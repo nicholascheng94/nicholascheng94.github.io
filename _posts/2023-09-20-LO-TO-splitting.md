@@ -6,6 +6,11 @@ categories: physics
 ---
 
 # Introduction and context
+Recently I am trying out some phonon calculations for a production system and unfortunately
+found negative phonon frequencies with `conv_thr = 1e-10` and `tr2_ph = 1e-14`. I believe 
+that my structure is stable, so to understand whether it is convergence issue I decided 
+to learn some practical things from a smaller test system. 
+
 Yesterday I tried to benchmark phonon calculations using Quantum ESPRESSO (`ph.x`)
 for bulk hexagonal boron nitride (hBN) at $\mathbf(q) = 0$ to understand how much I need to 
 converge the calculation. I found that using typical scf values of `conv_thr = 1e-6` and

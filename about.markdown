@@ -4,17 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Research Fellow at Department of Physics, National University of Singapore. :slightly_smiling_face:
+I am a Research Fellow at Department of Physics, National University of Singapore. :slightly_smiling_face: I work on cutting edge projects in the field of computational materials science. My expertise and training is in density functional theory and many-body perturbation theory calculations at the level of GW-BSE (Bethe-Salpeter equtaion).
 
-#This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-#You can find the source code for Minima at GitHub:
-#[jekyll][jekyll-organization] /
-#[minima](https://github.com/jekyll/minima)
-
-#You can find the source code for Jekyll at GitHub:
-#[jekyll][jekyll-organization] /
-#[jekyll](https://github.com/jekyll/jekyll)
-
-
-#[jekyll-organization]: https://github.com/jekyll
+Nicholas Lin Quan CHENG
+Email: nlqcheng@nus.edu.sg
