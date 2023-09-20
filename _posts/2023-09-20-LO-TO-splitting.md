@@ -23,6 +23,8 @@ was not included in the calculations. So I need to understand what is LO-TO spli
 
 I will come back to this at a later moment when I have the time
 
+`conv_thr = 1e-6` and `tr2_ph = 1e-18`: negative freq
+
 # Acoustic sum rule
 Firstly I want to understand what is the acoustic sum rule. 
 
