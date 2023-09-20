@@ -12,7 +12,7 @@ that my structure is stable, so to understand whether it is convergence issue I 
 to learn some practical things from a smaller test system. 
 
 Yesterday I tried to benchmark phonon calculations using Quantum ESPRESSO (`ph.x`)
-for bulk hexagonal boron nitride (hBN) at $\mathbf(q) = 0$ to understand how much I need to 
+for bulk hexagonal boron nitride (hBN) at $$\mathbf(q) = 0$$ to understand how much I need to 
 converge the calculation. I found that using typical scf values of `conv_thr = 1e-6` and
 `tr2_ph = 1e-12` yields negative frequencies on the order of 100 cm-1. Then, using
 `conv_thr = 1e-10` and `tr2_ph = 1e-18`, the negative frequencies vanish after applying
