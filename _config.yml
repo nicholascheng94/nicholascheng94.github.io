@@ -22,7 +22,8 @@ title: Nicholas's technical notes
 email: nlqcheng@nus.edu.sg
 description: >- # this means to ignore newlines until "baseurl:"
   Collection of technical notes for computational materials science
-  research, added as I go along the way for my own reference 
+  research, added as I go along the way for my own reference. Hope it
+  can be helpful to you as well :slightly_smiling_face: 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  nicholascheng94 
