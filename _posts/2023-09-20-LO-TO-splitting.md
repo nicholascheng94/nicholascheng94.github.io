@@ -56,3 +56,7 @@ q(1)=1,q(2)=0,q(3)=0
 ```
 
 Then can get LO-TO splitting.
+
+$$
+x+y=0
+$$
